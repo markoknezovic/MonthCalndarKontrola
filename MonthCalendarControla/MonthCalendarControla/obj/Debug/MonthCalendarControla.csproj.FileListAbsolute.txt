@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\MonthCalendarControla\MonthCalendarControla\bin\Debug\MonthCalendarControla.exe.config
+C:\Users\Korisnik\source\repos\MonthCalendarControla\MonthCalendarControla\bin\Debug\MonthCalendarControla.exe
+C:\Users\Korisnik\source\repos\MonthCalendarControla\MonthCalendarControla\bin\Debug\MonthCalendarControla.pdb
+C:\Users\Korisnik\source\repos\MonthCalendarControla\MonthCalendarControla\obj\Debug\MonthCalendarControla.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\MonthCalendarControla\MonthCalendarControla\obj\Debug\MonthCalendarControla.Form1.resources
+C:\Users\Korisnik\source\repos\MonthCalendarControla\MonthCalendarControla\obj\Debug\MonthCalendarControla.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\MonthCalendarControla\MonthCalendarControla\obj\Debug\MonthCalendarControla.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\MonthCalendarControla\MonthCalendarControla\obj\Debug\MonthCalendarControla.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\MonthCalendarControla\MonthCalendarControla\obj\Debug\MonthCalendarControla.exe
+C:\Users\Korisnik\source\repos\MonthCalendarControla\MonthCalendarControla\obj\Debug\MonthCalendarControla.pdb
